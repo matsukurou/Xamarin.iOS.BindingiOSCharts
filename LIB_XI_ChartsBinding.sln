@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsBinding", "ChartsBinding\ChartsBinding.csproj", "{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{398467B4-5C8B-4FF1-BCBA-50948A580654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Release|iPhone.Build.0 = Release|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0BBBF0DD-9F20-445B-87D3-C8CBB607AD50}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Debug|iPhone.Build.0 = Debug|iPhone
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Release|iPhone.ActiveCfg = Release|iPhone
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Release|iPhone.Build.0 = Release|iPhone
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{398467B4-5C8B-4FF1-BCBA-50948A580654}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
